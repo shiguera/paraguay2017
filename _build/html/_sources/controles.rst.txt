@@ -103,11 +103,11 @@ Visibilidad de parada
 
 Se define la visibilidad de parada dentro de un carril como la distancia que existe entre un vehículo y un obstáculo situado en su trayectoria, en el momento en que el conductor puede divisarlo sin que luego desaparezca de su campo visual. La distancia se medirá a lo largo del carril.
 
-Para el cálculo de la visibilidad de parada, se fijará la altura del obstáculo sobre la rasante de la calzada en cincuenta centímetros (50 cm), pudiendo situarse en cualquier punto de la sección transversal del carril (sección de obstáculo). En los tramos de carretera donde se considere que puedan existir obstáculos con altura inferior a cincuenta centímetros (< 50 cm) se analizará la conveniencia de fijar otra altura del obstáculo con un valor no inferior a veinte centímetros (≮20 cm).
+Para el cálculo de la visibilidad de parada, se fijará la altura del obstáculo sobre la rasante de la calzada en cincuenta centímetros (50 cm), pudiendo situarse en cualquier punto de la sección transversal del carril (sección de obstáculo). En los tramos de carretera donde se considere que puedan existir obstáculos con altura inferior a cincuenta centímetros (< 50 cm) se analizará la conveniencia de fijar otra altura del obstáculo con un valor no inferior a veinte centímetros (>20 cm).
 
 Se considera que un obstáculo es divisable siempre que pueda trazarse una visual entre el punto de vista del conductor y todos los puntos superiores del obstáculo.
 
-Se podrá considerar que las pilas y estribos de estructuras, los sistemas de contención de vehículos y los elementos de señalización e iluminación de la carretera no suponen un obstáculo intermedio para la visual siempre que, una vez divisada completamente la sección de obstáculo, ésta ha quedado parcialmente oculta por el obstáculo intermedio en no más de un metro (≯ 1,00 m).
+Se podrá considerar que las pilas y estribos de estructuras, los sistemas de contención de vehículos y los elementos de señalización e iluminación de la carretera no suponen un obstáculo intermedio para la visual siempre que, una vez divisada completamente la sección de obstáculo, ésta ha quedado parcialmente oculta por el obstáculo intermedio en no más de un metro (< 1,00 m).
 
 La visibilidad de parada deberá ser superior a la distancia de parada calculada con la velocidad de proyecto (Vp) del correspondiente tramo, en cuyo caso se dice que existe visibilidad de parada.
 
