@@ -53,7 +53,7 @@ Entre dos rasantes uniformes con distinta inclinación hay que disponer un acuer
 
 La expresión general de una parábola de eje vertical es la que se ha indicado anteriormente. Se suele utilizar el concepto de **parámetro del acuerdo, Kv**, con la siguiente expresión:
 
-:math:`K_v = frac{1}{2 a_2}`
+:math:`K_v = \frac{1}{2 a_2}`
 
 El parámetro *Kv* tiene las dimensiones de una longitud; si es positivo, corresponde a un acuerdo cóncavo (le inclinación aumenta en el sentido de avance) y, si es negativo, corresponde a un acuerdo convexo (la inclinación disminuye en el sentido de avance). Los valores absolutos altos de Kv corresponden a acuerdos más tendidos, mientras que los valores menores corresponden a acuerdos más aguzados.
 
