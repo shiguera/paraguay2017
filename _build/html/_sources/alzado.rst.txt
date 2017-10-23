@@ -49,6 +49,43 @@ La norma de trazado española fija un límite máximo del 4 % en autovías y aut
 Acuerdos verticales
 -------------------
 
+Entre dos rasantes uniformes con distinta inclinación hay que disponer un acuerdo vertical, que proporcione un cambio gradual de la pendiente. Se utilizan parábolas, que proporcionan un cambio lineal entre la inclinación inicial, correspondiente a la rasante uniforme de entrada al acuerdo, y la inclinacion final, correspondiente a la rasante de salida del mismo.
+
+La expresión general de una parábola de eje vertical es la que se ha indicado anteriormente. Se suele utilizar el concepto de **parámetro del acuerdo, Kv**, con la siguiente expresión:
+
+:math:`K_v = frac{1}{2 a_2}`
+
+El parámetro *Kv* tiene las dimensiones de una longitud; si es positivo, corresponde a un acuerdo cóncavo (le inclinación aumenta en el sentido de avance) y, si es negativo, corresponde a un acuerdo convexo (la inclinación disminuye en el sentido de avance). Los valores absolutos altos de Kv corresponden a acuerdos más tendidos, mientras que los valores menores corresponden a acuerdos más aguzados.
+
+El punto común entre la rasante de entrada y el acuerdo se denomina **tangente de entrada**, y se representa por :math:`S_{TE}`. La inclinación de la carretera en ese punto es :math:`i_e` . El punto comun entre la rasante de salida y el acuerdo se denomina **tangente de salida**, y se representa por :math:`S_{TS}`. La inclinación de la calzada en ese punto es :math:`i_s`
+
+Se denomina **Longitud del acuerdo, L** la distancia horizontal entre la tangente de entrada y la tangente de salida:
+
+:math:`L = S_{TS} - S{TE}`
+
+La longitud del acuerdo, L, la variación de inclinación en tanto por ciento y el parámetro Kv están relacionados por la siguiente expresión:
+
+:math:`i_s - i_e = 100 \frac{L}{K_v}`
+
+La siguiente figura muestra los diferentes parámetros comentados:
+
+.. image:: _static/acuerdo.png
+   :width: 580px
+   :alt: Acuerdo vertical
+
+Dimensiones mínimas de los acuerdos
+-----------------------------------
+
+A igualdad de la diferencia de inclinaciones entre la rasante de entrada y la de salida, el acuerdo se recorre on mayor comodidad cuanto mayor sea su longitud y cuanto mayor sea el valor del parámetro Kv. Las normas fijan unas dimensiones mínimas, teniendo además en cuenta criterios de visibilidad. Las dimensiones mínimas de los acuerdos verticales, atendiendo al tipo de carretera, se aconseja que sean las siguientes:
+
+.. image:: _static/parametromin.png
+   :width: 580px
+   :alt: Parametro minimo
+
+
+
+
+
 
 
 
